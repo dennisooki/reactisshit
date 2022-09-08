@@ -1,0 +1,13 @@
+.video{
+    position: relative;
+    background-color: black;
+    height: 100%;
+    object-fit: fill;
+    width: 100%;
+}
+.video__player{
+    background-color: black;
+    height: 100%;
+    object-fit: fill;
+    width: 100%;
+}
